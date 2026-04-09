@@ -20,3 +20,26 @@
 // let add=sum(2,3);
 // console.log(add);
 
+
+
+// const greet=function(){
+//     console.log('hello');
+    
+
+// }
+// greet()
+
+
+
+
+// (function() {
+//     console.log('hello world');
+// })();
+
+
+// const greet=()=>{
+//     console.log('hello');
+    
+// }
+
+// greet()
