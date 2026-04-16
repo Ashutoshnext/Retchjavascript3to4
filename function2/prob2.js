@@ -8,5 +8,6 @@ function EmotionEntry(name, greet) {
 EmotionEntry('vivek', 'hi')
 EmotionEntry('vivek', 'hi')
 EmotionEntry('sd', 'hi')
+
 console.log(getEmotionData);
 
